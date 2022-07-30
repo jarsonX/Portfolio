@@ -21,3 +21,4 @@ The main purpose of this project was to practice visualization skills.
 - Python
 - Jupyter-notebook
 - Visual Studio Code
+- Microsoft Excel
