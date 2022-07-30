@@ -15,3 +15,4 @@ The main purpose of this project was to practice visualization skills. All work 
 - analysis_3 - specialized visualization
 - analysis_4 - analysis by decades
 - analysis_5 - regression
+- analysis_6 - bubble plot
