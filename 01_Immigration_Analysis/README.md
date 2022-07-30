@@ -8,16 +8,10 @@ Dataset: Immigration to Canada from 1980 to 2013 - International migration flows
 
 # Contents
 
-analysis_1 - basic exploration
-
-analysis_2 - basic visualization
-
-analysis_3 - specialized visualization
-
-analysis_4 - analysis by decades
-
-analysis_5 - regression
-
-Canada.xlsx - the dataset
-
-dataset.py - code for loading and modification of the dataset, used in all analyses
+- Canada.xlsx - the dataset
+- dataset.py - code for loading and modification of the dataset, used in all analyses
+- analysis_1 - basic exploration
+- analysis_2 - basic visualization
+- analysis_3 - specialized visualization
+- analysis_4 - analysis by decades
+- analysis_5 - regression
