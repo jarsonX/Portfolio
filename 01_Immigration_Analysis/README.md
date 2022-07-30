@@ -2,7 +2,7 @@
 
 Analysis of immigration from Eastern Europe to Canada for 1980 - 2013.
 
-The main purpose of this project was to practice visualization skills. All work was performed in Visual Studio Code.
+The main purpose of this project was to practice visualization skills.
 
 **Dataset**: Immigration to Canada from 1980 to 2013 - International migration flows to and from selected countries - The 2015 revision from United Nation's website.
 
@@ -16,3 +16,8 @@ The main purpose of this project was to practice visualization skills. All work 
 - analysis_4 - analysis by decades
 - analysis_5 - regression
 - analysis_6 - bubble plot
+
+# Tools utilised
+- Python
+- Jupyter-notebook
+- Visual Studio Code
