@@ -16,6 +16,7 @@ The main purpose of this project was to practice visualization skills.
 - analysis_4 - analysis by decades
 - analysis_5 - regression
 - analysis_6 - bubble plot
+- analysis_7 - choropleth map
 
 # Tools utilised
 - Python
