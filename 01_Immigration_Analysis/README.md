@@ -10,6 +10,7 @@ The main purpose of this project was to practice visualization skills.
 
 - Canada.xlsx - the dataset
 - dataset.py - code for loading and modification of the dataset, used in all analyses
+- world-countries.json - geo data file (source: https://www.kaggle.com/datasets/ktochylin/world-countries as at 01/08/2022)
 - analysis_1 - basic exploration
 - analysis_2 - basic visualization
 - analysis_3 - specialized visualization
