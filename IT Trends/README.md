@@ -10,7 +10,22 @@ The project is based on a Capstone Project originally included as a part of IBM 
 You are more than welcome to check my project, compare it to your work and even borrow chunks of code. However, please be advised that due to reasons described above, there are SIGNIFICANT differences between my results and the results required to pass the exam.
 
 ## Modules
+1. Data preapartion
+2. Data exploration
+3. Data visualization
+4. Creating a dashboard *- in progress and to be uploaded soon*
 
-### **Module 1:** Data Preparation
-- Skills demonstrated: Python (Pandas), pre-processing techniques, clean coding
-- Tools utilised: Visual Studio Code, Python
+## Skills demonstrated
+- Python programming (including Pandas, Matplotlib, Numpy, Seaborn, Sqlite3)
+- Writing SQL queries
+- Descriptive statistics
+- Data visualization
+- Clean coding
+
+## Tools utilised
+- Python
+- SQL
+- Visual Studio Code
+- Microsoft Excel
+- Microsoft Power BI
+- DBeaver
