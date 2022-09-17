@@ -6,7 +6,7 @@
 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/jarsonX?tab=repositories)[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/jarsonX) 
 
-# IT Trends Analysis Project <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# IT Trends Analysis Using Python, SQL and MS Power BI<img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## About this Project
 The project's goal is to clean, analyze and visualize the data from Stack Overflow's survey of software professionals. It is based on a Capstone Project originally included as a part of IBM Data Analyst Professional Certificate. However, I was a bit dissapointed with it, meaning that in real life I would perform much more cleaning on the dataset than it was actually required to pass the exam. That is why I created my own version, which hopefully, more accurately represents actual data analyst's work. I also used MS Power BI instead of IBM Cognos. Although the latter is absolutely fine and I use it from time to time, it is no secret that I'm a Power BI guy :)
