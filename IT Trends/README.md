@@ -24,6 +24,7 @@ The project's goal was to clean, analyze and visualize the data from Stack Overf
 ## Skills demonstrated
 - Python programming (including Pandas, Matplotlib, Numpy, Seaborn, Sqlite3)
 - Writing SQL queries
+- Using DAX in Power BI
 - Descriptive statistics
 - Data visualization
 - Clean coding
@@ -34,4 +35,5 @@ The project's goal was to clean, analyze and visualize the data from Stack Overf
 - Visual Studio Code
 - Microsoft Excel
 - Microsoft Power BI
+- DAX Studio
 - DBeaver
