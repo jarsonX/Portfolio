@@ -1,0 +1,1 @@
+The files can be downloaded from my drive: [drive]([https://www.coursera.org/account/accomplishments/specialization/certificate/BZ2NP28BTXYE](https://drive.google.com/drive/folders/1rx-gn6orGemgkNsEjwxUAxY4ZrmEBYjP?usp=sharing))
