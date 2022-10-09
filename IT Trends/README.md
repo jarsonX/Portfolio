@@ -16,7 +16,7 @@ The project's goal was to clean, analyze and visualize the data from Stack Overf
 
 
 ## Main tasks
-1. Data preapartion
+1. Data preparation
 2. Data exploration
 3. Data visualization
 4. Creating a dashboard
