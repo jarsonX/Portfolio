@@ -19,7 +19,7 @@ The project's goal was to clean, analyze and visualize the data from Stack Overf
 1. Data preapartion
 2. Data exploration
 3. Data visualization
-4. Creating a dashboard *- in progress and to be uploaded soon*
+4. Creating a dashboard in Power BI
 
 ## Skills demonstrated
 - Python programming (including Pandas, Matplotlib, Numpy, Seaborn, Sqlite3)
