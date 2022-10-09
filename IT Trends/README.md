@@ -11,7 +11,7 @@
 ## About this Project
 The project's goal was to clean, analyze and visualize the data from Stack Overflow's survey of software professionals. It was based on a Capstone Project originally included as a part of IBM Data Analyst Professional Certificate. However, I was a bit dissapointed with it, meaning that in real life I would perform much more cleaning on the dataset than it was actually required to pass the exam. That is why I created my own version, which hopefully, more accurately represents actual data analyst's work. I also used MS Power BI instead of IBM Cognos. Although the latter is absolutely fine and I use it from time to time, it is no secret that I'm a Power BI guy.
 
-**Note:** Before creating this version of the project, I have completed the original IBM Data Analyst Professional Certificate Capstone Project and I am oficially certified. My certificate can be checked [here](https://www.coursera.org/account/accomplishments/specialization/certificate/BZ2NP28BTXYE).
+**Note:** Before creating this version of the project, I have completed the original IBM Data Analyst Professional Certificate Capstone Project and I am oficially certified - this can be verified [here](https://www.coursera.org/account/accomplishments/specialization/certificate/BZ2NP28BTXYE).
 
 
 
