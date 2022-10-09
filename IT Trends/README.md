@@ -15,7 +15,7 @@ The project's goal was to clean, analyze and visualize the data from Stack Overf
 
 
 
-## Modules
+## Main tasks
 1. Data preapartion
 2. Data exploration
 3. Data visualization
