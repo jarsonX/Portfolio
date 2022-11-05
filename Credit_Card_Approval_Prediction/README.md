@@ -8,7 +8,7 @@ This is my final project for Machine Learning Fundamentals class. My task was to
 
 ## Skills demonstrated
 - Python programming (including Pandas, Numpy, Scikit-learn)
-- Fundamental knowledge in respect of machine learning algorithms
+- Fundamental knowledge of machine learning algorithms
 - Clean coding
 
 ## Tools utilised
