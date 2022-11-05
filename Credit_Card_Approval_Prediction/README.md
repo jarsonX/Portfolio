@@ -2,4 +2,5 @@
 
 # Machine Learning and Data Science post-graduate course, 2022
 **Final project for Machine Learning class**
+
 **University of Economics in Katowice**
