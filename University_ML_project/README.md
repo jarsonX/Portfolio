@@ -1,10 +1,9 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/jarsonX?tab=repositories)[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/jarsonX) 
 
 # Machine Learning and Data Science post-graduate course, 2022
-**University of Economics in Katowice**
 
 ## About this Project
-From the beginning of 2022 to the beginning of 2023 I attended Machine Learning and Data Science post-graduate course on University of Economics in Katowice. This repository includes two projects that I was required to prepare for 'Machine Learning' and 'Natural Language Processing' classes:
+From the beginning of 2022 to the beginning of 2023 I attended Machine Learning and Data Science post-graduate course on **University of Economics in Katowice**. This repository includes two projects that I was required to prepare for 'Machine Learning' and 'Natural Language Processing' classes:
 
 1. Predicting Card Application Approval
 2. Predicting Spam
