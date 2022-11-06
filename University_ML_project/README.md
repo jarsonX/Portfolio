@@ -4,7 +4,15 @@
 **University of Economics in Katowice**
 
 ## About this Project
-This is my final project for Machine Learning Fundamentals class. My task was to choose a dataset, define a problem, and create a solution that utilise one or more machine learning algorithms. I decided to use **Credit Card Approval dataset from the UCI Machine Learning Repository**. It should be noted that all attribute names and values in the aforementioned dataset have been changed to meaningless symbols to protect confidentiality. Therefore I had to assume that all attributes all important and should be treated as predictors.
+From the beginning of 2022 to the beginning of 2023 I attended Machine Learning and Data Science post-graduate course on University of Economics in Katowice. This repository includes two projects that I was required to prepare for 'Machine Learning' and 'Natural Language Processing' classes:
+*Predicting Card Application Approval
+
+*Predictings Spam
+
+I utilised sklearn in-built algorithms, i.e.: Logistic regression, Decision tree and Random forest. 
+
+
+given that those are algorithms that I am most familiar with.
 
 ## Skills demonstrated
 - Python programming (including Pandas, Numpy, Scikit-learn)
