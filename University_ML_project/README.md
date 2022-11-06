@@ -7,11 +7,9 @@
 From the beginning of 2022 to the beginning of 2023 I attended Machine Learning and Data Science post-graduate course on University of Economics in Katowice. This repository includes two projects that I was required to prepare for 'Machine Learning' and 'Natural Language Processing' classes:
 
 1. Predicting Card Application Approval
+2. Predicting Spam
 
-
-2. Predictings Spam
-
-I utilised sklearn in-built algorithms, i.e.: Logistic regression, Decision tree and Random forest. given that those are algorithms that I am most familiar with.
+I utilised sklearn in-built algorithms, i.e.: Logistic regression, Decision tree and Random forest. I am aware more advanced algorithms could be used, however I choose those that I am most familiar with.
 
 ## Skills demonstrated
 - Python programming (including Pandas, Numpy, Scikit-learn)
