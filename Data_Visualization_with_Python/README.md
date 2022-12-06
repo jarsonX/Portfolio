@@ -3,7 +3,7 @@
 # Data Visualization with Python, 2022
 
 ## About this Project
-Simple examples showing my skills in using Python for data visualization. For a quick overview please check **Presentation**. Code and input data can be found in **files**.
+Simple examples showing my skills in using Python for data visualization. For a quick overview please check **Presentation**. Code and input data can be found in relevant folders.
 
 ## Skills demonstrated
 - Python programming (including Matplotlib, Numpy, Pandas)
